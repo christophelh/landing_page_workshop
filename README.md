@@ -9,7 +9,7 @@ A picture is worth a thousand words, so here is what we'll build today ....
 - Create a file called index.html the folder you created
 
 
-## HTML Skeleton
+### HTML Skeleton
 
 ```
 <!DOCTYPE html>
@@ -22,6 +22,23 @@ A picture is worth a thousand words, so here is what we'll build today ....
   <body>
 
     <!-- Page's content = displayed on the page -->
+
+  </body>
+</html>
+<!-- end of file -->
+```
+
+
+### HTML Skeleton - Head
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Title. Maximum length 60-70 characters</title>
+    <meta name="description" content="Page description. No longer than 155 characters.">
+    <meta charset="utf-8">
+  </head>
+  <body>
 
   </body>
 </html>
