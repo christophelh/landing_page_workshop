@@ -72,3 +72,71 @@ https://christophelh.github.io/landing_page_workshop/
 </html>
 <!-- end of file -->
 ```
+
+### Titles
+
+```
+<h1>[...]</h1>  <!-- Only one per page! SEO important -->
+
+<h2>[...]</h2>
+<h3>[...]</h3>
+<h4>[...]</h4>
+<h5>[...]</h5>
+<h6>[...]</h6>
+
+```
+
+### Paragraphs
+
+```
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+  Veritatis laboriosam mollitia autem at ab omnis iure quis
+  asperiores inventore eos nam aut iusto officiis deserunt
+  nihil, sequi tempore impedit quae?
+</p>
+```
+
+### Emphasize
+
+```
+<p>
+  You can emphasize <em>some words</em>,
+  and even <strong>more if needed</strong>
+</p>
+
+
+```
+
+### List
+
+```
+<h2>Shopping List</h2>
+<ul>
+  <li>Milk</li>
+  <li>Butter</li>
+</ul>
+
+```
+
+### Images
+
+```
+
+<img src="logo.png" alt="Company Logo">
+
+```
+
+
+### Forms
+
+```
+
+<form>
+  <input type="email">
+  <input type="password">
+  <input type="submit" value="Log in">
+</form>
+
+```
+
