@@ -126,6 +126,7 @@ https://christophelh.github.io/landing_page_workshop/
 ```
 
 <img src="logo.png" alt="Company Logo">
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/ic
 
 ```
 
