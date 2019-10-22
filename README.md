@@ -46,3 +46,20 @@ A picture is worth a thousand words, so here is what we'll build today ....
 </html>
 <!-- end of file -->
 ```
+
+
+### HTML Skeleton - Body 
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Hello world</title>
+  </head>
+  <body>
+    <h1>Hello buddies!</h1>
+  </body>
+</html>
+<!-- end of file -->
+```
