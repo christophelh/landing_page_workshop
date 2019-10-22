@@ -147,3 +147,11 @@ https://christophelh.github.io/landing_page_workshop/
 
 ```
 
+
+## CSS
+
+
+### Linking stylesheet to HTML page
+
+![alt text](https://github.com/christophelh/landing_page_workshop/blob/master/linking.png)
+
