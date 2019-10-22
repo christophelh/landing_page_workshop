@@ -12,7 +12,10 @@ https://christophelh.github.io/landing_page_workshop/
 
 ## About HTML
 
-https://kitt.lewagon.com/karr/assets/html-css/css3-logo-195ecfeee1639c0cd00bcc4cfc85a548d6a7fa900eeed2707a75548798f89733.png
+Inline-style: 
+![alt text](https://kitt.lewagon.com/karr/assets/html-css/css3-logo-195ecfeee1639c0cd00bcc4cfc85a548d6a7fa900eeed2707a75548798f89733.png "Logo Title Text 1")
+
+
 
 - HTML stands for Hyper Text Markup Language
 
