@@ -12,7 +12,18 @@ A picture is worth a thousand words, so here is what we'll build today ....
 ## HTML Skeleton
 
 ```
+<!DOCTYPE html>
 <html>
+  <head>
 
+    <!-- Page's intelligence = meta tags -->
+
+  </head>
+  <body>
+
+    <!-- Page's content = displayed on the page -->
+
+  </body>
 </html>
+<!-- end of file -->
 ```
