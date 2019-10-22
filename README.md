@@ -12,7 +12,7 @@ https://christophelh.github.io/landing_page_workshop/
 
 ## About HTML
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/600px-HTML5_logo_and_wordmark.svg.png)
 
 
 
