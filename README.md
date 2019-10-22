@@ -1,6 +1,7 @@
 ## Background & Objectives
 A simple challenge to create a basic HTML landing page with CSS 
 A picture is worth a thousand words, so here is what we'll build today ....
+https://christophelh.github.io/landing_page_workshop/
 
 ## Setup 
 
