@@ -11,6 +11,14 @@ A picture is worth a thousand words, so here is what we'll build today ....
 
 ## About HTML
 
+HTML stands for Hyper Text Markup Language
+
+HTML is the standard markup language for Web pages
+
+HTML elements are the building blocks of HTML pages
+
+HTML elements are represented by <> tags
+
 ### HTML Skeleton
 
 ```
