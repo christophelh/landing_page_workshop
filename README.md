@@ -73,6 +73,8 @@ https://christophelh.github.io/landing_page_workshop/
 <!-- end of file -->
 ```
 
+## HTML Elements
+
 ### Titles
 
 ```
