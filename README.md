@@ -9,6 +9,8 @@ A picture is worth a thousand words, so here is what we'll build today ....
 - Create a file called index.html the folder you created
 
 
+## About HTML
+
 ### HTML Skeleton
 
 ```
