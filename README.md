@@ -155,3 +155,9 @@ https://christophelh.github.io/landing_page_workshop/
 
 ![alt text](https://github.com/christophelh/landing_page_workshop/blob/master/linking.png)
 
+### Css Syntax
+
+![alt text](https://github.com/christophelh/landing_page_workshop/upload/master)
+
+
+
