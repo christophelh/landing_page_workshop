@@ -232,7 +232,7 @@ color: rgb(255, 83, 13);
 color: rgba(255, 83, 13, 1.0);
 ```
 
-#### Background Color
+### Background Color
 
 ```
 body{
@@ -240,11 +240,52 @@ body{
  }
  ```
 
-#### Text Color
+### Text Color
 
 ```
 h1 h2 p{
   color: grey;
  }
  ```
+ 
+ ### Background image
+ 
+
+```
+
+body{
+  background-image: url(landcape.png)
+}
+ 
+ ```
+
+### font-family
+
+```
+h1 h2 p{
+  font-family: Times, serif;
+}
+ 
+h1 h2 p{
+  font-family: Arial, serif;
+}
+ 
+```
+ 
+### Fonts - weight
+
+```
+
+h1 h2 p{
+  font-weight: bold;
+}
+
+```
+ 
+Fonts - Google fonts
+[Make your shopping on Google fonts](https://fonts.google.com/)
+
+Design tips
+- Open-Sans 👉 <body>
+- Raleway, Montserrat, Varela Round, etc… 👉 <h1>, <h2>, <h3>
 
