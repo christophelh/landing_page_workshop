@@ -288,4 +288,24 @@ Fonts - Google fonts
 Design tips
 - Open-Sans 👉 <body>
 - Raleway, Montserrat, Varela Round, etc… 👉 <h1>, <h2>, <h3>
+  
+  
+
+### Live Code (10 min)
+
+### Setup 
+
+- create a file called `style.css`
+- link your `style.css` to your `index.html`
+
+
+### Instructions 
+
+- Add a grey background color to your `body`
+- Apply a Open-Sans font to your `h1` and `h2`
+- Apply a Montserrat font to your `body`
+
+
+
+
 
