@@ -3,18 +3,9 @@ A simple challenge to create a basic HTML landing page with CSS
 A picture is worth a thousand words, so here is what we'll build today ....
 https://christophelh.github.io/landing_page_workshop/
 
-## Setup 
-
-- Create a folder called coding workshop on your desktop
-- Open your code editor 
-- Create a file called index.html the folder you created
 
 
 ## About HTML
-
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/600px-HTML5_logo_and_wordmark.svg.png)
-
-
 
 - HTML stands for Hyper Text Markup Language
 
@@ -24,7 +15,10 @@ https://christophelh.github.io/landing_page_workshop/
 
 - HTML elements are represented by <> tags
 
+
 ### HTML Skeleton
+
+HTML Boilerplate to use when you are starting a new project.
 
 ```
 <!DOCTYPE html>
@@ -45,6 +39,16 @@ https://christophelh.github.io/landing_page_workshop/
 
 
 ### HTML Skeleton - Head
+
+The <head> element is a container for metadata (data about data) and is placed between the <html> tag and the <body> tag.
+
+HTML metadata is data about the HTML document. Metadata is not displayed.
+
+Metadata typically define the document title, character set, styles, scripts, and other meta information.
+
+The following tags describe metadata: <title>, <style>, <meta>, <link>, <script>, and <base>.
+
+
 ```
 <!DOCTYPE html>
 <html>
@@ -62,6 +66,11 @@ https://christophelh.github.io/landing_page_workshop/
 
 
 ### HTML Skeleton - Body 
+
+
+The <body> tag defines the document's body.
+
+The <body> element contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc.
 
 ```
 <!DOCTYPE html>
@@ -95,9 +104,9 @@ Exemple
 ### Titles
 
 ```
-<h1>[...]</h1>  <!-- Only one per page! SEO important -->
+<h1>[... Your Title ....]</h1>  <!-- Only one per page! SEO important -->
 
-<h2>[...]</h2>
+<h2>[... Your TagLine ... ]</h2>
 <h3>[...]</h3>
 <h4>[...]</h4>
 <h5>[...]</h5>
@@ -161,10 +170,29 @@ Exemple
 ```
 
 
+### Live Code
+
+
+- Build a simple HTML profile page with the following elements (use the right HTML tags):
+
+- An image of yourself
+- A header and sub-header with your name and your job title (you can put programmer now 💻)
+- A description of yourself
+- A button
+- A list of your social links
+
+A picture is worth a thousand words, so here is what you should build in this challenge
+
+
 ## CSS
+
+- CSS stands for Cascading Style Sheets
+- CSS describes how HTML elements are to be displayed
 
 
 ### Linking stylesheet to HTML page
+
+You have to link your `CSS` to your `HTML` File.
 
 ![Linking HTML](https://github.com/christophelh/landing_page_workshop/blob/master/linking.png)
 
@@ -180,3 +208,8 @@ Exemple
 ### CSS Example
 
 ![Example](https://github.com/christophelh/landing_page_workshop/blob/master/cssexemple.png)
+
+
+
+
+
