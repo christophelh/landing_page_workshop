@@ -210,12 +210,12 @@ You have to link your `CSS` to your `HTML` File.
 
 ![Linking HTML](https://github.com/christophelh/landing_page_workshop/blob/master/linking.png)
 
-### Css Syntax
+### CSS Syntax
 
 ![CSS Syntax](https://github.com/christophelh/landing_page_workshop/blob/master/csssyntax.png)
 
 
-### Css Vocabulary 
+### CSS Vocabulary 
 
 ![CSS Vocabulary](https://github.com/christophelh/landing_page_workshop/blob/master/cssvocabulary.png)
 
@@ -318,6 +318,7 @@ h1 h2 p{
 - Change the color of your button 
 
 
+## D
 
 
 
