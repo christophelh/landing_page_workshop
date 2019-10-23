@@ -160,7 +160,6 @@ Exemple
 ```
 
 <img src="logo.png" alt="Company Logo">
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/ic
 
 ```
 
