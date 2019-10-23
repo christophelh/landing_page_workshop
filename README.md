@@ -172,8 +172,17 @@ Exemple
 
 ### Live Code
 
+### Setup 
 
-- Build a simple HTML profile page with the following elements (use the right HTML tags):
+- Create a folder called `workshop` on your desktop
+- Open the folder within your code editor
+- Create a file called `index.html`
+
+
+### Instructions 
+
+- Build a simple HTML Medium article page with the following elements (use the right HTML tags):
+- E.g : [Example]([I'm an inline-style link](https://medium.com/@Skyscanner/everybody-can-write-code-dd6adbe0bc9)
 
 - An image of yourself
 - A header and sub-header with your name and your job title (you can put programmer now 💻)
