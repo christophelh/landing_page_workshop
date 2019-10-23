@@ -224,6 +224,27 @@ You have to link your `CSS` to your `HTML` File.
 ![Example](https://github.com/christophelh/landing_page_workshop/blob/master/cssexemple.png)
 
 
+### Colors
 
+```
+color: #FF530D;
+color: rgb(255, 83, 13);
+color: rgba(255, 83, 13, 1.0);
+```
 
+#### Background Color
+
+```
+body{
+  background-color: white;
+ }
+ ```
+
+#### Text Color
+
+```
+h1 h2 p{
+  color: grey;
+ }
+ ```
 
