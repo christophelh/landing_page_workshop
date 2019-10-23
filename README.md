@@ -79,6 +79,12 @@ https://christophelh.github.io/landing_page_workshop/
 
 ## HTML Elements
 
+
+### HTML Syntax
+
+![Linking HTML](https://github.com/christophelh/landing_page_workshop/blob/master/htmlsyntax.png)
+
+
 ### Titles
 
 ```
@@ -153,11 +159,11 @@ https://christophelh.github.io/landing_page_workshop/
 
 ### Linking stylesheet to HTML page
 
-![alt text](https://github.com/christophelh/landing_page_workshop/blob/master/linking.png)
+![Linking HTML](https://github.com/christophelh/landing_page_workshop/blob/master/linking.png)
 
 ### Css Syntax
 
-![alt text](https://github.com/christophelh/landing_page_workshop/upload/master)
+![CSS Syntax](https://github.com/christophelh/landing_page_workshop/upload/master)
 
 
 
