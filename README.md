@@ -182,15 +182,20 @@ Exemple
 ### Instructions 
 
 - Build a simple HTML Medium article page with the following elements (use the right HTML tags):
-- E.g : [Exemple](https://medium.com/@Skyscanner/everybody-can-write-code-dd6adbe0bc9)
 
-- An image of yourself
-- A header and sub-header with your name and your job title (you can put programmer now 💻)
-- A description of yourself
-- A button
-- A list of your social links
+
+- Start with a HTML Skeleton 
+- Add a page title within the `<head> </head> `
+- Within the body tag `<body> </body>` 
+  - Add a picture
+  - Add a button 
+  - Add a H1 tag 
+  - Add Multiple h2 tags
+  - Write paragraphs after each H2
 
 A picture is worth a thousand words, so here is what you should build in this challenge
+[Example](https://medium.com/@Skyscanner/everybody-can-write-code-dd6adbe0bc9)
+
 
 
 ## CSS
