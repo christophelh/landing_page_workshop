@@ -170,7 +170,7 @@ Exemple
 ```
 
 
-### Live Code
+### Live Code (20min)
 
 ### Setup 
 
@@ -274,6 +274,20 @@ h1 h2 p{
 }
  
 ```
+
+
+## Include Google-font library to your website
+
+```
+
+<head>
+  ...
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+  ...
+</head>
+```
+
+
  
 ### Fonts - weight
 
@@ -303,6 +317,7 @@ Fonts - Google fonts
 - Add a grey background color to your `body`
 - Apply a Open-Sans font to your `h1` and `h2`
 - Apply a Montserrat font to your `body`
+- Change the color of your button 
 
 
 
