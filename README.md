@@ -316,6 +316,7 @@ h1 h2 p{
 - Apply a Open-Sans font to your `h1` and `h2`
 - Apply a Montserrat font to your `body`
 - Change the color of your button 
+- Change the color & text-decoration of all the links
 
 
 ## DIV & Box Model 
