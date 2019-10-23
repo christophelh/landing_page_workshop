@@ -55,9 +55,11 @@ The following tags describe metadata: <title>, <style>, <meta>, <link>, <script>
 <!DOCTYPE html>
 <html>
   <head>
+  
     <title>Page Title. Maximum length 60-70 characters</title>
     <meta name="description" content="Page description. No longer than 155 characters.">
     <meta charset="utf-8">
+    
   </head>
   <body>
 
@@ -78,11 +80,15 @@ The <body> element contains all the contents of an HTML document, such as text, 
 <!DOCTYPE html>
 <html>
   <head>
+  
     <meta charset="utf-8">
     <title>Hello world</title>
+    
   </head>
   <body>
+  
     <h1>Hello buddies!</h1>
+    
   </body>
 </html>
 <!-- end of file -->
