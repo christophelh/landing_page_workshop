@@ -84,6 +84,13 @@ https://christophelh.github.io/landing_page_workshop/
 
 ![Linking HTML](https://github.com/christophelh/landing_page_workshop/blob/master/htmlsyntax.png)
 
+Exemple 
+
+```
+<a href="https://www.opentechcamp.com" target="_blank">
+  Learn to code the best way possible 👨🏽‍💻
+</a>
+```
 
 ### Titles
 
