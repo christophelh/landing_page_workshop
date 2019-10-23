@@ -170,7 +170,7 @@ Exemple
 
 ### Css Syntax
 
-![CSS Syntax](https://github.com/christophelh/landing_page_workshop/upload/master)
+![CSS Syntax](https://github.com/christophelh/landing_page_workshop/blob/master/csssyntax.png)
 
 
 ### Css Vocabulary 
