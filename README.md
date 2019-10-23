@@ -173,4 +173,10 @@ Exemple
 ![CSS Syntax](https://github.com/christophelh/landing_page_workshop/upload/master)
 
 
+### Css Vocabulary 
 
+![CSS Vocabulary](https://github.com/christophelh/landing_page_workshop/blob/master/cssvocabulary.png)
+
+### CSS Example
+
+![Example](https://github.com/christophelh/landing_page_workshop/blob/master/cssexemple.png)
