@@ -319,12 +319,14 @@ h1 h2 p{
 - Change the color & text-decoration of all the links
 
 
-## DIV & Box Model 
+## Box Model 
 
 All HTML elements can be considered as boxes. In CSS, the term "box model" is used when talking about design and layout. The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content. ... Margin - Clears an area outside the border.
 
 ![Box Model ](https://github.com/christophelh/landing_page_workshop/blob/master/boxmodel.png)
 
-### Airbnb is full of `DIV`
+### Organise your Content with `DIV`
+
+The <div> tag defines a division or a section in an HTML document.
 
 ![Airbnb DIV Box](https://github.com/christophelh/landing_page_workshop/blob/master/airbnb2.png)
