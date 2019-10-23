@@ -285,12 +285,8 @@ h1 h2 p{
 Fonts - Google fonts
 [Make your shopping on Google fonts](https://fonts.google.com/)
 
-Design tips
-- Open-Sans 👉 <body>
-- Raleway, Montserrat, Varela Round, etc… 👉 <h1>, <h2>, <h3>
-  
-  
 
+ 
 ### Live Code (10 min)
 
 ### Setup 
