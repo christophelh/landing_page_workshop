@@ -325,5 +325,6 @@ All HTML elements can be considered as boxes. In CSS, the term "box model" is us
 
 ![Box Model ](https://github.com/christophelh/landing_page_workshop/blob/master/boxmodel.png)
 
+### Airbnb is full of `DIV`
 
 ![Airbnb DIV Box](https://github.com/christophelh/landing_page_workshop/blob/master/airbnb2.png)
