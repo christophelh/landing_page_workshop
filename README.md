@@ -169,6 +169,9 @@ Exemple
 
 ```
 
+### HTML Tags
+
+[All HTML Tags](https://www.w3schools.com/tags/default.asp)
 
 ### Live Code (20min)
 
@@ -265,11 +268,11 @@ body{
 ### font-family
 
 ```
-h1 h2 p{
+h1{
   font-family: Times, serif;
 }
  
-h1 h2 p{
+p{
   font-family: Arial, serif;
 }
  
@@ -301,8 +304,12 @@ h1 h2 p{
 }
 
 ```
+
+### More CSS Tags
+
+[All CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
  
-### Live Code (10 min)
+### Live Code (20 min)
 
 ### Setup 
 
@@ -358,7 +365,12 @@ You need to give a name to your box in your `index.html` with the attribute `cla
 
 ```
 
+### Live Code (30 min)
 
+- Time to finish building your project 
+- Make sure you use `DIV`
+- Apply different style to all your divs
+- [Results should be close to this](https://christophelh.github.io/landing_page_workshop/)
 
 
 
