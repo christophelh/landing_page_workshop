@@ -226,6 +226,9 @@ You have to link your `CSS` to your `HTML` File.
 
 ### Colors
 
+[Website to choose your colors](https://coolors.co/browser/latest/1)
+
+
 ```
 color: #FF530D;
 color: rgb(255, 83, 13);
