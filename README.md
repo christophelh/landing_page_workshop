@@ -276,7 +276,10 @@ h1 h2 p{
 ```
 
 
-## Include Google-font library to your website
+### Include Google-font library to your website
+
+Fonts - Google fonts
+[Make your shopping on Google fonts](https://fonts.google.com/)
 
 ```
 
@@ -298,11 +301,6 @@ h1 h2 p{
 }
 
 ```
- 
-Fonts - Google fonts
-[Make your shopping on Google fonts](https://fonts.google.com/)
-
-
  
 ### Live Code (10 min)
 
